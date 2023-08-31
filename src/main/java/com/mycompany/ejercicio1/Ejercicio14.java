@@ -23,6 +23,7 @@ public class Ejercicio14 {
 
         System.out.println("El cuadrado de " + doble + " es: " + cuadrado);
         System.out.println("El cubo de " + doble + "es: " + cubo);
+        scanner.close();
     }
     
 }
